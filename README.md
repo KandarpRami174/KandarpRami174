@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KandarpRami
+- 👀 I’m interested in contract based project
+- 🌱 I’m currently learning Python ML w/ Data Science
+- 📫 Contact Me: (+91)9925088646 OR Kandarp555@hotmail.com [w/ subject: {name}, Contact you from Github] 
